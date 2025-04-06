@@ -1,0 +1,65 @@
+GPT-4:
+Cluster 1:
+India’s education policy should focus on elevating public schools through better infrastructure, trained and fairly compensated teachers, inclusive decision-making, and updated curricula that emphasize critical thinking, real-world skills, and digital access—while fostering healthy collaboration and accountability between public and private institutions to ensure equitable and high-quality education for all.
+
+Cluster 2:
+India's education policy should focus on fostering strong collaboration between academia and industry to promote hands-on, project-based learning and develop adaptable, real-world skills such as communication, critical thinking, and digital literacy.
+
+Cluster 3:
+India's education policy should focus on integrating AI and digital tools to personalize learning, support self-paced and flexible education, reduce teacher workload through automation, and foster a system that values practical learning, intrinsic motivation, and teacher quality over rigid standards and competitive exams.
+
+Cluster 4:
+India's education policy should focus on increasing awareness, ensuring access to quality standardized resources like government-approved video lectures, promoting meaningful project-based learning, and establishing a transparent body to uplift or reform substandard institutions.
+
+Cluster 5:
+India's education policy should focus on making education more affordable and life-changing by promoting practical, personalized, and early specialization in learning, integrating technology to expand access and reduce communication barriers, and replacing rote-based, standardized assessments with creative, real-world applications that nurture diverse intelligences.
+
+Cluster 6:
+India's education policy should focus on revamping primary education to prioritize core subjects like mathematics, science, and economics, while eliminating outdated content and ensuring better teaching quality.
+
+Cluster 7:
+India's education policy should focus on fostering a goal- and result-oriented system that aligns with societal and employment needs, incorporates regular curriculum updates, promotes purpose-driven learning for both students and teachers, includes inputs from industry leaders, leverages mass media for awareness, and supports individual well-being.
+
+Gemini:
+Cluster 1:
+India's education policy should focus on improving the quality and accessibility of public education by investing in infrastructure, technology, teacher training and compensation, curriculum updates emphasizing critical thinking, problem-solving, and relevant skills, while also establishing better oversight and accountability for both public and private institutions through feedback mechanisms and potentially public-private partnerships to ensure equitable and quality education for all.
+
+Cluster 2:
+India's education policy should focus on enhanced collaboration with industry to integrate practical skills, provide real-world exposure through internships and project-based learning, and ensure the curriculum remains relevant and equips graduates with adaptable skills for the job market.
+
+Cluster 3:
+India's education policy should focus on strategically integrating AI and digital tools to personalize learning, enhance teaching effectiveness, and provide flexibility, while also prioritizing teacher quality through better compensation, rigorous selection, and continuous training, and shifting towards more practical, competency-based assessments that emphasize completion over competition.
+
+Cluster 4:
+India's education policy should focus on increasing awareness and guidance, potentially through accessible resources like cheaper internet, awareness campaigns, recorded standard lectures, government-approved video content, and establishing a quality board to address underperforming institutions and ensure standardized education.
+
+Cluster 5:
+India's education policy should focus on making education more affordable and practical, integrating technology thoughtfully, emphasizing real-world application and understanding, promoting individualized learning and assessment, and allowing for earlier specialization relevant to future career paths.
+
+Cluster 6:
+India's education policy should focus on modernizing the curriculum with an emphasis on mathematics, science, economics, English, logical reasoning, and practical skills while improving teacher quality and incorporating moral values and physical education to address outdated content and pseudoscience.
+
+Cluster 7:
+India's education policy should focus on a goal-oriented and result-oriented approach, tailored to socioeconomic needs and employment, with a focus on the "why" of learning, frequent curriculum updates reflecting societal and job market changes, utilizing mass media for awareness, and encouraging self-care.
+
+Claude Sonnet:
+Cluster 1:
+India's education policy should focus on improving the quality of public schools through better teacher compensation, enhanced infrastructure, critical thinking-centered curricula, and digital literacy, while establishing stronger accountability mechanisms that incorporate feedback from teachers, students, and parents to create an accessible and forward-looking educational system that provides opportunities for all children regardless of socioeconomic background.
+
+Cluster 2:
+India's education policy should focus on strengthening collaboration between academic institutions and industry through internship programs, project-based learning, and co-designed curricula that balance theoretical knowledge with practical skills development, ensuring students graduate with relevant competencies for the modern workforce.
+
+Cluster 3:
+India's education policy should focus on integrating AI and digital tools as enhancement technologies that personalize learning experiences and reduce teacher burden, while improving teacher selection, training, and compensation, shifting assessment toward project-based approaches, and enabling self-paced learning that emphasizes completion over competition.
+
+Cluster 4:
+India's education policy should focus on increasing awareness through internet-accessible resources like standard-based video lectures, providing better guidance for students, developing meaningful project-based learning, and establishing a quality oversight board to improve underperforming institutions.
+
+Cluster 5:
+India's education policy should focus on creating a more practical, accessible, and personalized learning system that emphasizes real-world applications, reduces financial barriers, embraces helpful technologies, and allows for earlier specialization in relevant skills rather than standardized testing of unrelated subjects.
+
+Cluster 6:
+India's education policy should focus on modernizing the curriculum with greater emphasis on mathematics, science, and practical skills while improving teaching quality to address the current outdated system.
+
+Cluster 7:
+India's education policy should focus on goal-oriented learning that aligns curriculum with socioeconomic needs, emphasizes practical outcomes for employment, and adapts regularly to changing job market requirements, all while fostering student purpose and self-care.
